@@ -27,4 +27,4 @@ Um aplicativo simples de portfólio desenvolvido em **React Native**, com seçõ
 2. Acesse a pasta do projeto
 3. Instale as dependências: npm install
 4. execute o app: npx expo start
-5. 
+   
